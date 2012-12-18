@@ -326,6 +326,7 @@ footer {
   margin-top: 40px;
   padding-top: 20px;
   padding-bottom: 30px;
+  margin-bottom: 40px;
   font-size: 13px;
   color: #aaa;
 }
@@ -360,6 +361,8 @@ li {
 * html .clearfix {height: 1%;}
 .clearfix {display: block;}
 
+
+
 /* #Media Queries
 ================================================== */
 
@@ -385,6 +388,7 @@ li {
     width: 94%;
     margin: 0 auto;
   }
+
 }
 
 /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
