@@ -94,10 +94,13 @@ header h2 {
   min-height: 595px;
 }
 
+.drozd {
+  background: transparent url(../images/drozd.gif) 100% 100% no-repeat;
+}
+
 .inner {
   width: 780px;
   margin: 0 auto;
-  background: transparent url(../images/drozd.gif) 100% 100% no-repeat;
 }
 
 #container .inner img {
