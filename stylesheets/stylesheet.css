@@ -95,8 +95,9 @@ header h2 {
 }
 
 .inner {
-  width: 720px;
+  width: 780px;
   margin: 0 auto;
+  background: transparent url(../images/drozd.gif) 100% 100% no-repeat;
 }
 
 #container .inner img {
