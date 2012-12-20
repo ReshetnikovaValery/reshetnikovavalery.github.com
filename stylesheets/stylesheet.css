@@ -99,7 +99,7 @@ header h2 {
 }
 
 .photo {
-  background: transparent url(../images/valery.gif) 0 0 no-repeat;
+  background: transparent url(../images/valery.jpg) 0 0 no-repeat;
   float:left;
   min-height: 180px;
   min-width: 250px;
@@ -109,7 +109,7 @@ header h2 {
 }
 
 .photo:hover {
-  background: transparent url(../images/valery-hover.gif) 0 0 no-repeat;
+  background: transparent url(../images/valery-hover.jpg) 0 0 no-repeat;
 }
 
 .inner {
